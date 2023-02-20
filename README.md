@@ -1,3 +1,8 @@
+# Texture linear interpoation micro benchmark
+
+Set the `ANDROID_NDK` environment variable to the path of Android NDK and run `run_android.sh`
+
+-----------------------
 # GraphiT
 
 Handy tools & graphics API abstraction for blazing fast prototyping.
